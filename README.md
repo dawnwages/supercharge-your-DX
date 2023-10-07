@@ -46,12 +46,12 @@ Note: You can do this demo with *any* Django repo on GitHub. Try it out!
 
 ## Sessions
 <div>
-<iframe loading="lazy" style="position: relative; width: 120%; height: 600px; max-height: 80vh; border: none; padding: 0; margin: 0; overflow: hidden;"
+<iframe loading="lazy" style="position: relative; width: 110%; height: 600px; max-height: 80vh; border: none; padding: 0; margin: 0; overflow: hidden;"
       src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFuxPrK3EU&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
 </iframe>
 </div>
 <div>
-  <iframe loading="lazy" style="position: absolute; width: 120%; height: 600px; max-height: 80vh; border: none; padding: 0;margin: 0; overflow: hidden;"
+  <iframe loading="lazy" style="position: absolute; width: 110%; height: 600px; max-height: 80vh; border: none; padding: 0;margin: 0; overflow: hidden;"
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFvkILnmMk&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
