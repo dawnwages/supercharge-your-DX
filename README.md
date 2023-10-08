@@ -1,16 +1,24 @@
 # (Workshop) Supercharge your Developer Experience with VS Code, Dev Containers and Codespaces
 Supercharge your DX with VS Code and Dev Containers Workshop
 
+## Table of Contents
+- [Set Up Instructions](#Set-up-instructions)
+  - [VS Code](#vs-code)
+  - [Dev Containers](#dev-containers)
+  - [Codespaces](#codespaces)
+- [Workshop Sessions](#Sessions)
+- [FAQ](#faq)
+
 ## Set Up Instructions
 
 ### VS Code
 Free and built on open source. Integrated Git, debugging and extesnsions. You have the option between VS Code Stable and Insiders which are installed side-by-side, which means you can switch between the two independently. 
 
-[Intro to VS Code (Video)](https://youtu.be/B-s71n0dHUk?si=a5ljKKuMUZyoJGS3)
+- [Intro to VS Code (Video)](https://youtu.be/B-s71n0dHUk?si=a5ljKKuMUZyoJGS3)
 
-[Iteration Plans](https://github.com/microsoft/vscode/wiki/Iteration-Plans)
+- [Iteration Plans](https://github.com/microsoft/vscode/wiki/Iteration-Plans)
 
-[Roadmap](https://github.com/microsoft/vscode/wiki/Roadmap)
+- [Roadmap](https://github.com/microsoft/vscode/wiki/Roadmap)
 
 ||VS Code Stable| VS Code Insiders |
 |-------|--------------|------------------|
@@ -49,11 +57,12 @@ You're going to walk away with a 💩 ton of examples and save your own custom s
 
 |||
 |---|---|
-|VS Code for Python| VS Code Python Walkthrough|
-|VS Code for Python| VS Code Python Guide|
-|VS Code for Python| Customize your VS Code settings|
-|VS Code for Python| Python and Django IntelliSense|
-|Supercharged Features|Code Completion, AI and Copilot|
+|VS Code for Python| [VS Code Python Walkthrough](#activity-vs-code-python-walkthrough-🔗)|
+|VS Code for Python| [VS Code Python Guide](#guide-vs-code-python-🔗)|
+|VS Code for Python| [Customize your VS Code settings](#activity-vs-code-customize-your-settings-🔗)|
+|VS Code for Python| [Python and Django IntelliSense](#activity-vs-code-python-and-django-intellisense-🔗)|
+|Supercharged Features|[Code Completion, AI and Copilot](#codecompletion-ai-and-copilot-🔗)|
+|[Dev Containers for Python and Django]()||
 |Example Scenarios|[Custom (Model and Query) Managers in Django]() (Coming Soon)|
 |Example Scenarios|[Refactoring Old Django Code]()|
 |Example Scenarios|[Creating a Package]()|
@@ -70,7 +79,7 @@ You're going to walk away with a 💩 ton of examples and save your own custom s
 
 ### VS Code for Python 🔗
 
-#### Activity: VS Code Python Walkthrough 🔗🔗
+#### Activity: VS Code Python Walkthrough 🔗
 <img alt="VS Code screen click command palette at the top and type Python Walkthrough" src="Python Walkthrough_2023-10-07 17-30-10.gif">
 
 #### Guide: VS Code Python 🔗
@@ -94,16 +103,35 @@ Using the VS Code Python Guide, check out the Editor and Environment Settings in
 
 #### Activity: VS Code Python and Django IntelliSense 🔗
 If you do not have a codebase you feel comfortable perusing during the workshop, feel free to use the Djangonaut Space website codebase: [https://github.com/djangonaut-space/wagtail-indymeet](https://github.com/djangonaut-space/wagtail-indymeet)
+- Start with the Python Extension: Leverages all of VS Code's power to provide auto complete, IntelliSense, Linting, Debugging and Unit Testing, along with the ability to switch between Python versions
+- Select Interpreter
+- Autocomplete + IntelliSense: Combines together a few features together including code completion and variable suggestions.
+- "Code Actions"
+- Linting and formatters
 
-### VS Code Supercharged Features
+> 💡Tip: IntelliSense suggestions can be configured with `editor.quickSuggestions` and `editor.suggestOnTriggerCharacters`
 
-#### Codecompletion, AI and Copilot
+#### Guide: Keeping your Code Clean - Python Linters 🔗
+- Black
+- AutoPep8
 
-#### Portable Mode
+### VS Code Supercharged Features 🔗
 
-#### Zen Mode
+#### Codecompletion, AI and Copilot 🔗
 
-#### Screencast Mode
+#### Portable Mode🔗
+
+#### Zen Mode🔗
+
+#### Screencast Mode🔗
+
+### Dev Containers for Python and Django🔗
+
+<div>
+<iframe loading="lazy" style="position: relative; width: 100%; height: 600px; max-height: 80vh; border: none; padding: 0; margin: 0; overflow: hidden;"
+      src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFwon7SVHc&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    </iframe>
+</div>
 
 ### VS Code for Python - Example Scenarios 🔗
 
@@ -117,10 +145,6 @@ If you do not have a codebase you feel comfortable perusing during the workshop,
 
 #### Activity: Python and Django Debugging 🔗
 Your debugger settings for your workspace go in your launch.json in your `.vscode` settings directory.
-
-#### Guide: Keeping your Code Clean - Python Linters 🔗
-- Black
-- AutoPep8
 
 
 <div>
