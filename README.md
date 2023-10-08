@@ -112,6 +112,13 @@ Using the VS Code Python Guide, check out the Editor and Environment Settings in
 [ ] Environments: [Python Environments in VS Code](https://code.visualstudio.com/docs/python/environments)
 
 
+|Profile Name	| VS Code stable | VS Code insiders |
+|---|---|---|	
+|GitHub Extension|VS Code: https://aka.ms/PythonPulse/ep/8/profile | VS Code Insiders: https://aka.ms/PythonPulse/ep/8/insiders-profile |
+| Data Wrangler	|VS Code: https://aka.ms/PythonPulse/ep/7/profile | VS Code Insiders: https://aka.ms/PythonPulse/ep/7/insiders-profile |	
+| Python Testing |VS Code: https://aka.ms/PythonPulse/ep/9/profile| VS Code Insiders: https://aka.ms/PythonPulse/ep/9/insiders-profile |
+| Data Science |	VS Code: https://aka.ms/PythonPulse/ep/10/profile | VS Code Insiders: https://aka.ms/PythonPulse/ep/10/insiders-profile	|
+
 #### Activity: VS Code Python and Django IntelliSense 🔗
 If you do not have a codebase you feel comfortable perusing during the workshop, feel free to use the Djangonaut Space website codebase: [https://github.com/djangonaut-space/wagtail-indymeet](https://github.com/djangonaut-space/wagtail-indymeet)
 - Start with the Python Extension: Leverages all of VS Code's power to provide auto complete, IntelliSense, Linting, Debugging and Unit Testing, along with the ability to switch between Python versions
