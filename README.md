@@ -101,11 +101,17 @@ If you do not have a codebase you feel comfortable perusing during the workshop,
 
 #### Portable Mode
 
-### Zen Mode
+#### Zen Mode
 
-### Screencast Mode
+#### Screencast Mode
 
 ### VS Code for Python - Example Scenarios 🔗
+
+<div>
+<iframe loading="lazy" style="position: relative; width: 100%; height: 600px;  max-height: 80vh; border: none; padding: 0;margin: 0; overflow: hidden;"
+      src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFvdoiBZTk&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+</iframe>
+</div>
 
 #### Activity: Refactoring Old Django Code 🔗
 
@@ -122,13 +128,10 @@ Your debugger settings for your workspace go in your launch.json in your `.vscod
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFvkILnmMk&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<div>
-<iframe loading="lazy" style="position: relative; width: 100%; height: 600px;  max-height: 80vh; border: none; padding: 0;margin: 0; overflow: hidden;"
-      src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFvdoiBZTk&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-</iframe>
-</div>
+
 
 ## FAQ
 - By default VS Code Auto updates to new version.
 - You can disable VS Code telemetry which removes the need for VSCodium while allowing you to use VS Code's full set of features.
 - VS Code lets you control text indentation and whether you'd like to use spaces or tab stops. By default, VS Code inserts spaces & uses 4 spaces per tab key. VS Code will analyze your open file and determine indentation used in the document. The auto detection overrides indentation settings.
+- [Workspace Trust](https://code.visualstudio.com/docs/editor/workspace-trust) lets you decide whether code in your folder can be executed by VS Code and extensions without your explicit approval. This allows for safe code browsing working in "Restricted Mode"  
