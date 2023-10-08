@@ -138,19 +138,11 @@ If you do not have a codebase you feel comfortable perusing during the workshop,
 
 ### VS Code for Python - Example Scenarios 🔗
 
-<div>
-<iframe loading="lazy" style="position: relative; width: 100%; height: 600px;  max-height: 80vh; border: none; padding: 0;margin: 0; overflow: hidden;"
-      src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFvdoiBZTk&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-</iframe>
-</div>
-
 #### Activity: Refactoring Old Django Code 🔗
 
 #### Activity: Python and Django Debugging 🔗
 
 Your debugger settings for your workspace go in your launch.json in your `.vscode` settings directory.
-
-### Example Scenarios 
 
 <div>
   <iframe loading="lazy" style="position: relative; width: 100%; height: 600px; max-height: 80vh; border: none; padding: 0;margin: 0; overflow: hidden;"
@@ -158,6 +150,13 @@ Your debugger settings for your workspace go in your launch.json in your `.vscod
   </iframe>
 </div>
 
+### 🧠 Knowledge Check
+
+<div>
+<iframe loading="lazy" style="position: relative; width: 100%; height: 600px;  max-height: 80vh; border: none; padding: 0;margin: 0; overflow: hidden;"
+      src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFvdoiBZTk&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+</iframe>
+</div>
 
 ## FAQ
 - By default VS Code Auto updates to new version.
