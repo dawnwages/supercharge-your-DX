@@ -238,11 +238,7 @@ Your debugger settings for your workspace go in your launch.json in your `.vscod
 ![Dark background with Django Logo - Django 5.0 Testathon Test Django 5.0 against your project or a 3rd party package, If a 3rd party package needs an update for 5.0 create an issue/submit a PR, If there is a bug in a new Django release raise a ticket](django_testathon.png)
 - Sunday 15th October 08:30 UTC [https://everytimezone.com/?t=652b2b80,1fe](https://everytimezone.com/?t=652b2b80,1fe)
 - Friday 20th October 16:30 UTC [https://everytimezone.com/?t=6531c300,366](https://everytimezone.com/?t=6531c300,366)
-<!-- <div>
-  <iframe loading="lazy" style="position: relative; width: 100%; height: 600px; max-height: 80vh; border: none; padding: 0;margin: 0; overflow: hidden;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFvkILnmMk&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div> -->
+
 
 <!-- ### 🧠 Knowledge Check
 
