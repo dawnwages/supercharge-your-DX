@@ -1,6 +1,14 @@
 # (Workshop) Supercharge your Developer Experience with VS Code, Dev Containers and Codespaces
 Supercharge your DX with VS Code and Dev Containers Workshop
 
+Thank you so much for joining! 
+
+Needed for the day:
+- Any computer with any operating system and reliable internet connection.
+- Thats it!
+
+The goal is to give you tools to code however you need to, wherever you need to with whomever you need to. 
+
 ## Set Up Instructions
 
 ### VS Code
