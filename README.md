@@ -71,10 +71,10 @@ You're going to walk away with a ton of examples and save your own custom settin
 |Example Scenarios|[User Testing a Feature](#activity-user-testing-a-feature-🔗)|
 |Example Scenarios|[Writing Playwright Tests](#activity-writing-playwright-test-🔗)|
 |Example Scenarios|[Deploying Django from VS Code](#activity-deploying-django-from-vs-code-🔗)|
-<!-- |Example Scenarios|[Exploring Your PostgreSQL database](#activity-exploring-your-postgresql-database-🔗)| -->
-<!--|Example Scenarios|[Refactoring Old Django Code or upgrading Django](#activity-refactoring-old-django-code-🔗)|-->
-<!--|Example Scenarios|[Debugging Django](#activity-debugging-django-🔗)|-->
-<!-- |Example Scenarios|[Custom (Model and Query) Managers in Django]() (Coming Soon 🚧)| -->
+<!-- |Example Scenarios|[Exploring Your PostgreSQL database](#activity-exploring-your-postgresql-database-🔗)| 
+|Example Scenarios|[Refactoring Old Django Code or upgrading Django](#activity-refactoring-old-django-code-🔗)|
+|Example Scenarios|[Debugging Django](#activity-debugging-django-🔗)|
+ |Example Scenarios|[Custom (Model and Query) Managers in Django]() (Coming Soon 🚧)| -->
 
 ### VS Code for Python 🔗
 
