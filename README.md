@@ -128,6 +128,7 @@ If you do not have a codebase you feel comfortable perusing during the workshop,
 
 ### Dev Containers for Python and Django🔗
 
+#### Guide: Diving into Dev Containers with Django and Python 🔗
 <div>
 <iframe loading="lazy" style="position: relative; width: 100%; height: 600px; max-height: 80vh; border: none; padding: 0; margin: 0; overflow: hidden;"
       src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFwon7SVHc&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
@@ -149,9 +150,10 @@ If you do not have a codebase you feel comfortable perusing during the workshop,
 
 Your debugger settings for your workspace go in your launch.json in your `.vscode` settings directory.
 
+### Example Scenarios 
 
 <div>
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 600px; max-height: 80vh; border: none; padding: 0;margin: 0; overflow: hidden;"
+  <iframe loading="lazy" style="position: relative; width: 100%; height: 600px; max-height: 80vh; border: none; padding: 0;margin: 0; overflow: hidden;"
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFvkILnmMk&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
