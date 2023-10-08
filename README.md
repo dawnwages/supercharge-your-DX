@@ -84,21 +84,22 @@ You're going to walk away with a 💩 ton of examples and save your own custom s
 
 #### Guide: VS Code Python 🔗
 <div>
-<iframe loading="lazy" style="position: relative; width: 105%; height: 600px; max-height: 80vh; border: none; padding: 0; margin: 0; overflow: hidden;"
+<iframe loading="lazy" style="position: relative; width: 100%; height: 600px; max-height: 80vh; border: none; padding: 0; margin: 0; overflow: hidden;"
       src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFuxPrK3EU&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
 </iframe>
 </div>
+<a href="https://www.canva.com/design/DAFuxPrK3EU/view">share guide🛠️</a>
 
 #### Activity: VS Code Customize your Settings 🔗
 
 Using the VS Code Python Guide, check out the Editor and Environment Settings infographic. This is where your settings live. Now let's check out what you can change.
-- Visuals
-  - Themes
-  - Icons
-  - Fonts
-- Terminal
-- Snippets
-- Environments
+- [ ] Visuals
+  - [ ] Themes
+  - [ ] Icons
+  - [ ] Fonts
+- [ ] Terminal
+- [ ] Snippets
+- [ ] Environments
 
 
 #### Activity: VS Code Python and Django IntelliSense 🔗
@@ -132,6 +133,7 @@ If you do not have a codebase you feel comfortable perusing during the workshop,
       src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFwon7SVHc&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
     </iframe>
 </div>
+<a href="https://www.canva.com/design/DAFwon7SVHc/view">share guide🛠️</a>
 
 ### VS Code for Python - Example Scenarios 🔗
 
@@ -144,6 +146,7 @@ If you do not have a codebase you feel comfortable perusing during the workshop,
 #### Activity: Refactoring Old Django Code 🔗
 
 #### Activity: Python and Django Debugging 🔗
+
 Your debugger settings for your workspace go in your launch.json in your `.vscode` settings directory.
 
 
