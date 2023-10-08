@@ -43,24 +43,78 @@ Code spaces is a development environment that is hosted in the cloud. It's built
 Note: You can do this demo with *any* Django repo on GitHub. Try it out!
 
 ## What you'll be building
+You're going to walk away with a 💩 ton of examples and save your own custom settings.
 
 ## Sessions
 
 |||
 |---|---|
-|VS Code for Python| My favorite extensions, Anatomy of VS Code, |
-|||
+|VS Code for Python| VS Code Python Walkthrough|
+|VS Code for Python| VS Code Python Guide|
+|VS Code for Python| Customize your VS Code settings|
+|VS Code for Python| Python and Django IntelliSense|
+|Supercharged Features|Code Completion, AI and Copilot|
+|Example Scenarios|[Custom (Model and Query) Managers in Django]() (Coming Soon)|
+|Example Scenarios|[Refactoring Old Django Code]()|
+|Example Scenarios|[Creating a Package]()|
+|Example Scenarios|[Debugging Django]()|
+|Example Scenarios|[Onboarding a New Team Member]()|
+|Example Scenarios|[Keeping Code Clean]()|
+|Example Scenarios|[Performing Some a Task]()|
+|Example Scenarios|[User Testing]()|
+|Example Scenarios|[Writing Playwright Tests]()|
+|Example Scenarios|[Deploying Django from VS Code](), [Exploring Your PostgreSQL database]()|
+|Example Scenarios|[Exploring Your PostgreSQL database]()|
+
 |||
 
-### VS Code for Python
+### VS Code for Python 🔗
+
+#### Activity: VS Code Python Walkthrough 🔗🔗
+<img alt="VS Code screen click command palette at the top and type Python Walkthrough" src="Python Walkthrough_2023-10-07 17-30-10.gif">
+
+#### Guide: VS Code Python 🔗
 <div>
 <iframe loading="lazy" style="position: relative; width: 105%; height: 600px; max-height: 80vh; border: none; padding: 0; margin: 0; overflow: hidden;"
       src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFuxPrK3EU&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
 </iframe>
 </div>
 
-#### VS Code Python Walkthrough
-<img alt="VS Code screen click command palette at the top and type Python Walkthrough" src="Python Walkthrough_2023-10-07 17-30-10.gif">
+#### Activity: VS Code Customize your Settings 🔗
+
+Using the VS Code Python Guide, check out the Editor and Environment Settings infographic. This is where your settings live. Now let's check out what you can change.
+- Visuals
+  - Themes
+  - Icons
+  - Fonts
+- Terminal
+- Snippets
+- Environments
+
+
+#### Activity: VS Code Python and Django IntelliSense 🔗
+If you do not have a codebase you feel comfortable perusing during the workshop, feel free to use the Djangonaut Space website codebase: [https://github.com/djangonaut-space/wagtail-indymeet](https://github.com/djangonaut-space/wagtail-indymeet)
+
+### VS Code Supercharged Features
+
+#### Codecompletion, AI and Copilot
+
+#### Portable Mode
+
+### Zen Mode
+
+### Screencast Mode
+
+### VS Code for Python - Example Scenarios 🔗
+
+#### Activity: Refactoring Old Django Code 🔗
+
+#### Activity: Python and Django Debugging 🔗
+Your debugger settings for your workspace go in your launch.json in your `.vscode` settings directory.
+
+#### Guide: Keeping your Code Clean - Python Linters 🔗
+- Black
+- AutoPep8
 
 
 <div>
@@ -73,3 +127,8 @@ Note: You can do this demo with *any* Django repo on GitHub. Try it out!
       src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFvdoiBZTk&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
 </iframe>
 </div>
+
+## FAQ
+- By default VS Code Auto updates to new version.
+- You can disable VS Code telemetry which removes the need for VSCodium while allowing you to use VS Code's full set of features.
+- VS Code lets you control text indentation and whether you'd like to use spaces or tab stops. By default, VS Code inserts spaces & uses 4 spaces per tab key. VS Code will analyze your open file and determine indentation used in the document. The auto detection overrides indentation settings.
