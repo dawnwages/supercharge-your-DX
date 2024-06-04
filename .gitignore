@@ -1,0 +1,41 @@
+.idea/
+.temp_cache/
+db.sqlite3
+node_modules/
+venv/
+wsl-venv/
+build/
+__pycache__
+*.pyc
+*.db
+mediafiles/*
+media/*
+.env
+.python-version
+dist/
+
+staticfiles/*
+
+# dependencies
+node_modules
+
+# production
+build
+theme/static/css/dist/style.css
+
+# Fixtures until we know what we're doing
+fixtures/data.json
+
+# misc
+.DS_Store
+
+npm-debug.log
+yarn-error.log
+yarn.lock
+.yarnclean
+.vscode
+.idea
+.env
+
+# Ignore local settings override
+indymeet/settings/local.py
