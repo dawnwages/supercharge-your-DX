@@ -1,5 +1,5 @@
-VS Code Supercharged Features
-=============================
+⚡7. VS Code Supercharged Features
+===================================
 
 Codecompletion, AI and Copilot
 ------------------------------

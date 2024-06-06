@@ -1,0 +1,20 @@
+📃 3. Codespaces
+==============================
+
+    Code spaces is a development environment that is hosted in the cloud. It's built with the same tools as VS Code and Dev Containers, but you now have cloud compute in a Docker container, running on a virtual machine. YOu chan chose your machine types and cores, ram and storage. 
+
+.. image:: ../_static/image-1.png
+   :width: 100%
+   :alt: An image sharing the development environment and its communication between the editor and Azure Virutal Machine. The Code Editor, VS Code Desktop, Browser, JetBrains or Commandline, and it communicates to your cloud hosting machine.
+   :align: center
+
+Quick links
+-----------
+- ▶️ `Codespaces Quick Start <https://docs.github.com/en/codespaces/getting-started/quickstart>`__
+
+..admonistion::
+    :class: important
+
+    You can do this demo with *any* Django repo on GitHub. Try it out!
+
+

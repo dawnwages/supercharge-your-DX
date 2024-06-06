@@ -1,4 +1,4 @@
-Customize Your VS Code settings
+✅ 5. Customize Your VS Code settings
 ===============================
 
 .. |check| raw:: html

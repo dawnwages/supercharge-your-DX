@@ -1,4 +1,4 @@
-Guide: Diving into Dev Containers with Django and Python
+🐾 8. Dev Containers Guide
 ========================================================
 
 .. raw:: html

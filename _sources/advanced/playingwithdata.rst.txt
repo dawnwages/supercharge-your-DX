@@ -1,5 +1,5 @@
-Playing with data in VS Code
-============================
+📺 [Activity] Playing with data with VS Code extensions
+========================================================
 - [Data Wrangler - Extension (Video)](https://youtu.be/gc0Hm1NpYPo)
 - [Jupyter Notebooks Extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)
 - 🆕[Data Wrangler Extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)

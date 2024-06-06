@@ -1,5 +1,5 @@
-What is your experience with VS Code?
-=====================================
+How do you make quick changes or explore new repos?
+===================================================
 .. raw:: html
 
     <embed>

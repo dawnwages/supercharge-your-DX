@@ -1,5 +1,5 @@
-VS Code for Python development
-==============================
+📃 1. VS Code
+==============
 
     Free and built on open source. Integrated Git, debugging and extesnsions. You have the option between VS Code Stable and Insiders which are installed side-by-side, which means you can switch between the two independently. 
 
@@ -33,11 +33,11 @@ Quick links
    🔥 Learn more about the `Experimental WebAssembly Exention in VS Code <https://code.visualstudio.com/blogs/2023/06/05/vscode-wasm-wasi>`__
 
 
-Release Videos
-==============
+📺 1.1 Release Videos
+==================
 
 .. raw:: html
 
     <embed>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=eeFF8pfBEYI4MvmP&amp;list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="728" height="409" src="https://www.youtube.com/embed/videoseries?si=eeFF8pfBEYI4MvmP&amp;list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </embed>

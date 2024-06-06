@@ -1,5 +1,5 @@
-Activity: Onboarding a new Team Member
-======================================
+📃 Onboarding a new Team Member
+================================
 
 - [Markdown Preview Mermaid Support Extension](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
 - [VS Code Profiles](https://code.visualstudio.com/docs/editor/profiles)

@@ -1,5 +1,5 @@
-VS Code Walkthrough
-===================
+🐾 4. VS Code Guide
+==========================
 
 .. image:: ../_static/Python Walkthrough_2023-10-07 17-30-10.*
    :width: 100%
