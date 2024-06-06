@@ -19,7 +19,21 @@ extensions = []
 templates_path = ['_templates']
 exclude_patterns = []
 
-
+html_theme_options = {
+    #'analytics_anonymize_ip': False,
+    #'logo_only': False,
+    "display_version": True,
+    "prev_next_buttons_location": 'bottom',
+    "style_external_links": False,
+    "navigation_with_keys": True,
+    "collapse_navigation": True,
+    "sticky_navigation": True,
+    "navigation_depth": 3,
+    "includehidden": True,
+    "titles_only": False,
+    "vcs_pageview_mode": '',
+}
+html_title = "Supercharge 🐍 DX with VS Code"
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output

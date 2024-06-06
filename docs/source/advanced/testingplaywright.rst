@@ -1,0 +1,4 @@
+Playwright
+==========
+- [Python Playwright](https://playwright.dev/python/docs/intro)
+- [PyOhio - A Quickstart to Web Testing with Playwright (Video)](https://www.pyohio.org/2022/program/talks/a-quickstart-to-web-testing-with-playwright)

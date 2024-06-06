@@ -20,13 +20,13 @@ Free and built on open source. Integrated Git, debugging and extesnsions. You ha
 
 - [Roadmap](https://github.com/microsoft/vscode/wiki/Roadmap)
 
-||VS Code Stable| VS Code Insiders |
+
+||| |
 |-------|--------------|------------------|
-|Description|Stable VS Code release monthly.|The most recent code pushes for early adopters interested in troubleshooting VS Code, frequent builds with features and bug fixes|
+|Description|Stable VS Code release monthly.||
 |Release Notes|[latest](https://code.visualstudio.com/updates/)|-|
 |Python Release Notes|[September 2023](https://devblogs.microsoft.com/python/python-in-visual-studio-code-september-2023-release/)|-|
-|Download|⭐[Install](https://code.visualstudio.com/download)|⭐[Install](https://code.visualstudio.com/insiders/)|
-|Anywhere, anytime, entirely in your browser|[visit](https://vscode.dev/)|[visit](https://insiders.vscode.dev/)|
+|Download||||||
 
 
 ### Dev Containers
@@ -86,7 +86,6 @@ You're going to walk away with a ton of examples and save your own custom settin
 <iframe loading="lazy" style="position: relative; width: 100%; height: 600px; max-height: 80vh; border: none; padding: 0; margin: 0; overflow: hidden;"
       src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFuxPrK3EU&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
 </iframe>
-</div>
 <a href="https://www.canva.com/design/DAFuxPrK3EU/view">share guide🛠️</a>
 
 #### Activity: VS Code Customize your Settings 🔗
@@ -129,9 +128,9 @@ If you do not have a codebase you feel comfortable perusing during the workshop,
 
 > 💡Tip: IntelliSense suggestions can be configured with `editor.quickSuggestions` and `editor.suggestOnTriggerCharacters`
 
-<!-- #### Guide: Keeping your Code Clean - Python Linters 🔗
+#### Guide: Keeping your Code Clean - Python Linters 🔗
 - Black
-- AutoPep8 -->
+- AutoPep8
 
 ### VS Code Supercharged Features 🔗
 
@@ -193,9 +192,7 @@ If there is more time after going through workshop materials or if the group pre
 - [Using PostgreSQL inside VS Code Dev Containers](https://www.youtube.com/live/JTHTWp9DIZQ?si=jLVh0qLfMV3jhbmH)
 
 #### Activity: Keeping Code Clean 🔗
-- 🆕[Ruff Linter Extension](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)
-- 🆕[Linting Python in VS Code](https://code.visualstudio.com/docs/python/linting)
-- [Black Formatter Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)
+
 
 #### Activity: Playing with Data 🔗
 - [Data Wrangler - Extension (Video)](https://youtu.be/gc0Hm1NpYPo)

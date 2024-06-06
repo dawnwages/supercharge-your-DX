@@ -1,0 +1,10 @@
+Activity: VS Code Python and Django IntelliSense
+================================================
+If you do not have a codebase you feel comfortable perusing during the workshop, feel free to use the Djangonaut Space website codebase: [https://github.com/djangonaut-space/wagtail-indymeet](https://github.com/djangonaut-space/wagtail-indymeet)
+- Start with the Python Extension: Leverages all of VS Code's power to provide auto complete, IntelliSense, Linting, Debugging and Unit Testing, along with the ability to switch between Python versions
+- Select Interpreter
+- Autocomplete + IntelliSense: Combines together a few features together including code completion and variable suggestions.
+- "Code Actions"
+- Linting and formatters
+
+> 💡Tip: IntelliSense suggestions can be configured with `editor.quickSuggestions` and `editor.suggestOnTriggerCharacters`
