@@ -20,7 +20,6 @@ staticfiles/*
 node_modules
 
 # production
-build
 theme/static/css/dist/style.css
 
 # Fixtures until we know what we're doing
