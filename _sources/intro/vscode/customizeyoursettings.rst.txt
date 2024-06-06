@@ -21,18 +21,18 @@ Using the VS Code Python Guide, check out the Editor and Environment Settings in
 
 |uncheck| Visuals
 
-  |uncheck| Themes: [https://vscodethemes.com/ 3rd Party Extensions list](https://vscodethemes.com/)
+  |uncheck| Themes: `https://vscodethemes.com/ - 3rd Party Extensions list <https://vscodethemes.com/>`__
 
-  |uncheck| Icons: [VS Code Marketplace Icon Extensions](https://marketplace.visualstudio.com/search?term=Icons&target=VSCode&category=All%20categories&sortBy=Relevance)
+  |uncheck| Icons: `VS Code Marketplace Icon Extensions <https://marketplace.visualstudio.com/search?term=Icons&target=VSCode&category=All%20categories&sortBy=Relevance>`__
   
   |uncheck| Fonts
 
-|uncheck| Terminal: [VS Code Terminal](https://code.visualstudio.com/docs/terminal/basics)
+|uncheck| Terminal: `VS Code Terminal <https://code.visualstudio.com/docs/terminal/basics>`__
 
-|uncheck| Snippets: [Django Snippets Extension](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
+|uncheck| Snippets: `Django Snippets Extension <https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django>`__
 
-|uncheck| Linters: [Linting Python in VS Code](https://code.visualstudio.com/docs/python/linting)
+|uncheck| Linters: `Linter Python Extensions <https://code.visualstudio.com/docs/python/linting>`__
 
-|uncheck| Formatters: [Formatting Python in VS Code](https://code.visualstudio.com/docs/python/formatting)
+|uncheck| Formatters: `Formatting Python in VS Code <https://code.visualstudio.com/docs/python/formatting>`__
 
-|uncheck| Environments: [Python Environments in VS Code](https://code.visualstudio.com/docs/python/environments)
+|uncheck| Environments: `Python Environments in VS Code <https://code.visualstudio.com/docs/python/environments>`__

@@ -1,2 +1,14 @@
 FAQ
 ===
+
+What settings trump what settings?
+----------------------------------
+Profile > User > Workspace
+
+Hypothetically, if you have specifications in your User settings that contradict your Workspace settings, VS Code will try to reconcile the differences and where it cannot it will opt for the more specific user experience. That means user settings will take precedence over workspace settings. If you then import a profile, the settings in that profile will take precedence over your workspace where enabled. There is a screen as you are importing the profile to look at the contents of the profile and choose or even tweek the settings you’d like to use before implementing.
+
+.. raw:: html
+
+    <embed>
+    <iframe src="https://app.sli.do/event/hMq9cCrrUGsi49cQ1K9C7x" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
+    </embed>

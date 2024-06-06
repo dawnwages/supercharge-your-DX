@@ -1,5 +1,9 @@
-🐾 8. Dev Containers Guide
+🐾 + 📺 8. Dev Containers Guide
 ========================================================
+
+Shareable guide
+---------------
+Check out the guide for using Dev Containers!
 
 .. raw:: html
 
@@ -10,4 +14,13 @@
         <a href="https://www.canva.com/design/DAFwon7SVHc/view">share guide🛠️</a>
     </embed>
 
-- [Django Dev Containers (Video)](https://youtu.be/pf_SmZ-gkRM)
+
+Watch the video
+---------------
+Join Dawn Wages and Sarah Kaiser on a live stream episode of the Python Pulse as we work on Dev Containers together.
+
+.. raw:: html
+
+    <embed>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/pf_SmZ-gkRM?si=ngxSA1ZT4ddxijiu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </embed>

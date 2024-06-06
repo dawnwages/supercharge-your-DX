@@ -19,76 +19,53 @@ Supercharge your Developer Experience with VS Code, Dev Containers and Codespace
 - What are Dev Containers?
 - How to use GitHub Codespaces?
 
-   (15 min) VS Code Walkthrough
-   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-      intro/vscode/vscodewalkthrough
-      intro/vscode/customizeyoursettings
-      intro/vscode/supercharge
-         AI
-   (10 mins) Group explore
-   ^^^^^^^^^^^^^^^^^^^^^^^
-      Choose from:
-         - VS Code onboarding
-         - Django app deployed
-         - VS Code playing with data 
-         - VS Code onboarding
-         - Django app deployed
-         - VS Code playing with data 
-   (10 mins) Dev Containers
-   ^^^^^^^^^^^^^^^^^^^^^^^^
-   (10 mins) Codespaces 
-   ^^^^^^^^^^^^^^^^^^^^
-   On your own - deep dive
-      Choose from:
-         - Build a Django App with GitHub Copilot
-         - Contribute to CPython with Codespaces
-         - VS Code playing with data
+(15 min) VS Code Walkthrough
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- VS Code Guide
+- Checklist to customize your settings
+- ⚡Superchage
+   - AI and Copilot
+   - Portable Mode
+   - Zen Mode
+   - Screencast Mode
+
+(10 mins) Group explore
+^^^^^^^^^^^^^^^^^^^^^^^
+Choose from:
+   - VS Code onboarding
+   - Django app deployed
+   - VS Code playing with data 
+   - VS Code onboarding
+   - Django app deployed
+   - VS Code playing with data 
+
+(10 mins) Dev Containers
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+(10 mins) Codespaces 
+^^^^^^^^^^^^^^^^^^^^
+On your own - deep dive
+Choose from:
+   - Build a Django App with GitHub Copilot
+   - Contribute to CPython with Codespaces
+   - VS Code playing with data
 
 3 hour workshop - Django
 ------------------------
-
-   (15 min) Introduction to the tools
-   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-      intro/vscode/vscode
-         intro/vscode/quiz
-      intro/devcontainers
-         intro/devcontainers/quiz TODO
-      intro/codespaces
-         intro/codespaces/quiz TODO
-
-   (15 min) VS Code Walkthrough
-   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-      intro/vscode/vscodewalkthrough
-      intro/vscode/customizeyoursettings
-      intro/vscode/supercharge
-         AI
-
-   (20 mins) x2 10 min chunks - Choose your own adventure - intro activity
-   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   
-      Come back to the group and share what we've explored from the repo
-      Choose from:
-         - Python linters
-         - Django IntelliSense
-         - Python environments
-         - VS Code accessibility tools
-
-   (20 mins) x2 10 min chunks - Choose your own adventure - advanced activity
-   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-      Come back to the group and share what we've explored from the repo
-      Choose from:
-         - VS Code onboarding
-         - Django app deployed
-         - VS Code playing with data
-
-   (15 mins) Dev Containers
-   ^^^^^^^^^^^^^^^^^^^^^^^^
-   (10 mins) Codespaces 
-   ^^^^^^^^^^^^^^^^^^^^^
-   (30 mins) Group activity - deep dive together
-   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-      Choose from:
-         - Build a Django App with GitHub Copilot
-         - Contribute to CPython with Codespaces         
+(15 min) Introduction to the tools
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(15 min) VS Code Walkthrough
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(20 mins) x2 10 min chunks - Choose your own adventure - intro activity
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   
+(20 mins) x2 10 min chunks - Choose your own adventure - advanced activity
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(15 mins) Dev Containers
+^^^^^^^^^^^^^^^^^^^^^^^^
+(10 mins) Codespaces 
+^^^^^^^^^^^^^^^^^^^^^
+(30 mins) Group activity - deep dive together
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^     
 
 .. toctree::
    :caption: Introduction

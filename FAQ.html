@@ -195,7 +195,7 @@
           <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
         </button>
       </div>
-      <label class="toc-overlay-icon toc-header-icon no-toc" for="__toc">
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
         <div class="visually-hidden">Toggle table of contents sidebar</div>
         <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
       </label>
@@ -221,14 +221,14 @@
 <div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
   <p class="caption" role="heading"><span class="caption-text">Introduction</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="intro/starthere.html">🏃🏽‍♀️ 0. Getting Started</a></li>
+<li class="toctree-l1"><a class="reference internal" href="intro/starthere.html">🏃🏽‍♀️ 0. bienvenido!</a></li>
 <li class="toctree-l1"><a class="reference internal" href="intro/vscode/vscode.html">📃 1. VS Code</a></li>
 <li class="toctree-l1"><a class="reference internal" href="intro/vscode/vscode.html#release-videos">📺 1.1 Release Videos</a></li>
 <li class="toctree-l1"><a class="reference internal" href="intro/vscode/quiz.html">What is your experience with VS Code?</a></li>
 <li class="toctree-l1"><a class="reference internal" href="intro/devcontainers/devcontainers.html">📃 2. Dev Containers for Python development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="intro/devcontainers/quiz.html">What kind of project environments are you working on?</a></li>
 <li class="toctree-l1"><a class="reference internal" href="intro/codespaces/codespaces.html">📃 3. Codespaces</a></li>
-<li class="toctree-l1"><a class="reference internal" href="intro/codespaces/quiz.html">How do you make quick changes or explore new repos?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="intro/codespaces/quiz.html">Have you heard of GitHub Codespaces?</a></li>
 </ul>
 <p class="caption" role="heading"><span class="caption-text">Customizing VS Code</span></p>
 <ul>
@@ -239,7 +239,7 @@
 </ul>
 <p class="caption" role="heading"><span class="caption-text">Remote Development Environments</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="devcontainers.html">🐾 8. Dev Containers Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="devcontainers.html">🐾 + 📺 8. Dev Containers Guide</a></li>
 <li class="toctree-l1"><a class="reference internal" href="codespaces.html">📺 9. [Activity] Codespaces</a></li>
 </ul>
 <p class="caption" role="heading"><span class="caption-text">More to explore...</span></p>
@@ -295,7 +295,7 @@
               <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
             </button>
           </div>
-          <label class="toc-overlay-icon toc-content-icon no-toc" for="__toc">
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
             <div class="visually-hidden">Toggle table of contents sidebar</div>
             <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
           </label>
@@ -303,6 +303,13 @@
         <article role="main" id="furo-main-content">
           <section id="faq">
 <h1>FAQ<a class="headerlink" href="#faq" title="Link to this heading">¶</a></h1>
+<section id="what-settings-trump-what-settings">
+<h2>What settings trump what settings?<a class="headerlink" href="#what-settings-trump-what-settings" title="Link to this heading">¶</a></h2>
+<p>Profile &gt; User &gt; Workspace</p>
+<p>Hypothetically, if you have specifications in your User settings that contradict your Workspace settings, VS Code will try to reconcile the differences and where it cannot it will opt for the more specific user experience. That means user settings will take precedence over workspace settings. If you then import a profile, the settings in that profile will take precedence over your workspace where enabled. There is a screen as you are importing the profile to look at the contents of the profile and choose or even tweek the settings you’d like to use before implementing.</p>
+<embed>
+<iframe src="https://app.sli.do/event/hMq9cCrrUGsi49cQ1K9C7x" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
+</embed></section>
 </section>
 
         </article>
@@ -348,8 +355,27 @@
         
       </footer>
     </div>
-    <aside class="toc-drawer no-toc">
+    <aside class="toc-drawer">
       
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">FAQ</a><ul>
+<li><a class="reference internal" href="#what-settings-trump-what-settings">What settings trump what settings?</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
       
       
     </aside>

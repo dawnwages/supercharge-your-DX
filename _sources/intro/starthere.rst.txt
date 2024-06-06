@@ -1,2 +1,27 @@
-🏃🏽‍♀️ 0. Getting Started
+🏃🏽‍♀️ 0. bienvenido!
 ======================
+
+Hey friends,
+
+This workshop can be self directed or completed with a friend. This url will not change so keep coming back for updates and clarification.
+
+Ask questions!
+ 
+.. raw:: html
+
+    <embed>
+    <iframe src="https://app.sli.do/event/hMq9cCrrUGsi49cQ1K9C7x" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
+    </embed>
+
+
+.. admonition:: Feedback
+    :class: important
+
+    For feedback on Microsoft and Python needs in general, you can submit to `https://aka.ms/python/feedback`
+
+    .. raw:: html
+
+        <embed>
+        <iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2b76UpVDQNHl19NWgNYHeNURDdMNUNPREdEUzNZSTFCRlE4UjZaWDNCNy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>    
+        </embed>
+

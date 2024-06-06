@@ -221,14 +221,14 @@
 <div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
   <p class="caption" role="heading"><span class="caption-text">Introduction</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="../starthere.html">🏃🏽‍♀️ 0. Getting Started</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../starthere.html">🏃🏽‍♀️ 0. bienvenido!</a></li>
 <li class="toctree-l1"><a class="reference internal" href="vscode.html">📃 1. VS Code</a></li>
 <li class="toctree-l1"><a class="reference internal" href="vscode.html#release-videos">📺 1.1 Release Videos</a></li>
 <li class="toctree-l1"><a class="reference internal" href="quiz.html">What is your experience with VS Code?</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../devcontainers/devcontainers.html">📃 2. Dev Containers for Python development</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../devcontainers/quiz.html">What kind of project environments are you working on?</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../codespaces/codespaces.html">📃 3. Codespaces</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../codespaces/quiz.html">How do you make quick changes or explore new repos?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../codespaces/quiz.html">Have you heard of GitHub Codespaces?</a></li>
 </ul>
 <p class="caption" role="heading"><span class="caption-text">Customizing VS Code</span></p>
 <ul class="current">
@@ -239,7 +239,7 @@
 </ul>
 <p class="caption" role="heading"><span class="caption-text">Remote Development Environments</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="../../devcontainers.html">🐾 8. Dev Containers Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../devcontainers.html">🐾 + 📺 8. Dev Containers Guide</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../codespaces.html">📺 9. [Activity] Codespaces</a></li>
 </ul>
 <p class="caption" role="heading"><span class="caption-text">More to explore...</span></p>
@@ -333,9 +333,13 @@
 </div>
 <section id="what-is-a-profile-in-vs-code">
 <h2>What is a profile in VS Code?<a class="headerlink" href="#what-is-a-profile-in-vs-code" title="Link to this heading">¶</a></h2>
+<p><a class="reference external" href="https://code.visualstudio.com/docs/editor/profiles">VS Code Profiles</a> gives you the ability to configure the <cite>current</cite> settings of your VS Code experience as well as set custom settings depending on workspace/directory or activity. You are able to control all of the modifications in <cite>Settings</cite> / <cite>user settings.json</cite> / <cite>workspace settings.json</cite>, extensions, keyboard shortcuts, snippets or themes. With profiles you can export to a file or get a shareable link for a colleague. Give recommendations on your favorite extensions and editor themes with only a few clicks.</p>
 </section>
 <section id="what-settings-trump-what-settings">
 <h2>What settings trump what settings?<a class="headerlink" href="#what-settings-trump-what-settings" title="Link to this heading">¶</a></h2>
+<p>Profile &gt; User &gt; Workspace</p>
+<p>Hypothetically, if you have specifications in your User settings that contradict your Workspace settings, VS Code will try to reconcile the differences and where it cannot it will opt for the more specific user experience. That means user settings will take precedence over workspace settings. If you then import a profile, the settings in that profile will take precedence over your workspace where enabled. There is a screen as you are importing the profile to look at the contents of the profile and choose or even tweek the settings you’d like to use before implementing.
+see more &#64; <a class="reference external" href="../../../FAQ.html">FAQ</a></p>
 </section>
 </section>
 

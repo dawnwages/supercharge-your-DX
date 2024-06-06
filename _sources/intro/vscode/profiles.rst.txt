@@ -15,7 +15,11 @@
 
 What is a profile in VS Code?
 -----------------------------
-
+`VS Code Profiles <https://code.visualstudio.com/docs/editor/profiles>`__ gives you the ability to configure the `current` settings of your VS Code experience as well as set custom settings depending on workspace/directory or activity. You are able to control all of the modifications in `Settings` / `user settings.json` / `workspace settings.json`, extensions, keyboard shortcuts, snippets or themes. With profiles you can export to a file or get a shareable link for a colleague. Give recommendations on your favorite extensions and editor themes with only a few clicks.
 
 What settings trump what settings?
 ----------------------------------
+Profile > User > Workspace 
+
+Hypothetically, if you have specifications in your User settings that contradict your Workspace settings, VS Code will try to reconcile the differences and where it cannot it will opt for the more specific user experience. That means user settings will take precedence over workspace settings. If you then import a profile, the settings in that profile will take precedence over your workspace where enabled. There is a screen as you are importing the profile to look at the contents of the profile and choose or even tweek the settings you'd like to use before implementing.
+see more @ `FAQ <../../../FAQ.html>`__
