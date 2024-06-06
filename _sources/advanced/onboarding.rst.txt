@@ -1,0 +1,6 @@
+Activity: Onboarding a new Team Member
+======================================
+
+- [Markdown Preview Mermaid Support Extension](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+- [VS Code Profiles](https://code.visualstudio.com/docs/editor/profiles)
+- [Using PostgreSQL inside VS Code Dev Containers](https://www.youtube.com/live/JTHTWp9DIZQ?si=jLVh0qLfMV3jhbmH)

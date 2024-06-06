@@ -1,0 +1,6 @@
+Creating a Python Package in VS Code
+====================================
+- [Mypy Stubs in VS Code](https://dev.to/jodaut/python-type-checking-with-visual-studio-code-46a7)
+- [This VS Code update can type hint your Python code (Video)](https://www.youtube.com/watch?v=hHBp0r4w86g)
+- [Setuptools](https://setuptools.pypa.io/en/latest/setuptools.html)
+- [Python task provider extension](https://marketplace.visualstudio.com/items?itemName=tonybaloney.python-task-provider)

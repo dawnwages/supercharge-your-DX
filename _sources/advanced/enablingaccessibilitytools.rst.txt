@@ -1,0 +1,4 @@
+Activity: Enabling Accessiblility tools in VS Code
+==================================================
+- 🆕[Accessibility in VS Code (Video)](https://www.youtube.com/embed/iFPsrvjZ9yo?si=Ezk0K3XMRdbJHazk)
+- [VS Code Accessibility](https://code.visualstudio.com/docs/editor/accessibility)

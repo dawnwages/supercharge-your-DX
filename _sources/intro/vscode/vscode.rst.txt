@@ -1,0 +1,43 @@
+VS Code for Python development
+==============================
+
+    Free and built on open source. Integrated Git, debugging and extesnsions. You have the option between VS Code Stable and Insiders which are installed side-by-side, which means you can switch between the two independently. 
+
+Quick links
+-----------
+
+- 📺 `Intro to VS Code (Video) <https://youtu.be/B-s71n0dHUk?si=a5ljKKuMUZyoJGS3>`__
+- 📃 `Iteration Plans <https://github.com/microsoft/vscode/wiki/Iteration-Plans>`__
+- 🗺️ `Roadmap <https://github.com/microsoft/vscode/wiki/Roadmap>`__
+
+
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+|                                           | VS Code Stable                                                                                                 |  VS Code Insiders                                                                                                                |
++===========================================+================================================================================================================+==================================================================================================================================+
+|description                                |Stable VS Code release monthly.                                                                                 | The most recent code pushes for early adopters interested in troubleshooting VS Code, frequent builds with features and bug fixes|
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+|Python Release Notes                       |`September 2023 <https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2024-release/>`__       |`latest <https://code.visualstudio.com/updates/>`__                                                                               |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+|Download                                   |`Install <https://code.visualstudio.com/insiders/>`__                                                           |`Install <https://code.visualstudio.com/insiders/>`__                                                                             |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+|Anywhere, anytime, entirely in your browser|`visit <https://vscode.dev/>`__                                                                                 |`visit <https://insiders.vscode.dev/>`__                                                                                          |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+
+
+
+.. admonition:: Python in the browser?!
+   :class: seealso
+
+   Yep! You heard that right. The VS Code origin story started in the browser, moved to an electron app and is now back in the browser and working on WebAssembly efforts to support the fastest growing language group in VS Code.
+   
+   🔥 Learn more about the `Experimental WebAssembly Exention in VS Code <https://code.visualstudio.com/blogs/2023/06/05/vscode-wasm-wasi>`__
+
+
+Release Videos
+==============
+
+.. raw:: html
+
+    <embed>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=eeFF8pfBEYI4MvmP&amp;list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </embed>

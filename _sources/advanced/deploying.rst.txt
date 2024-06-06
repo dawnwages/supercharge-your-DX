@@ -1,0 +1,6 @@
+Deploying from VS Code
+======================
+
+- [Getting the most out of Python with VS Code and Azure (Video)](https://www.youtube.com/watch?v=fvFBnulY_M0)
+- [Speedrun your deployments from VS Code (Video)](https://youtu.be/yu4q-iLMtKA)
+- [Deploy your django app to Azure](https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=django%2Cwindows%2Cazure-cli%2Cvscode-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli)
