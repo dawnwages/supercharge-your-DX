@@ -9,6 +9,7 @@
         <title>✅ 5. Customize Your VS Code settings - Python + VS Code, Dev Containers, Codespaces Workshop</title>
       <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=a746c00c" />
     <link rel="stylesheet" type="text/css" href="../../_static/styles/furo.css?v=387cc868" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="../../_static/styles/furo-extensions.css?v=36a5483c" />
     
     
@@ -310,11 +311,99 @@
 <p><input type="checkbox"> Icons: <a class="reference external" href="https://marketplace.visualstudio.com/search?term=Icons&amp;target=VSCode&amp;category=All%20categories&amp;sortBy=Relevance">VS Code Marketplace Icon Extensions</a></p>
 <p><input type="checkbox"> Fonts</p>
 </div></blockquote>
+<p><input type="checkbox"> Settings: <a class="reference external" href="https://code.visualstudio.com/docs/getstarted/settings">Settings in VS Code</a></p>
 <p><input type="checkbox"> Terminal: <a class="reference external" href="https://code.visualstudio.com/docs/terminal/basics">VS Code Terminal</a></p>
 <p><input type="checkbox"> Snippets: <a class="reference external" href="https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django">Django Snippets Extension</a></p>
 <p><input type="checkbox"> Linters: <a class="reference external" href="https://code.visualstudio.com/docs/python/linting">Linter Python Extensions</a></p>
 <p><input type="checkbox"> Formatters: <a class="reference external" href="https://code.visualstudio.com/docs/python/formatting">Formatting Python in VS Code</a></p>
 <p><input type="checkbox"> Environments: <a class="reference external" href="https://code.visualstudio.com/docs/python/environments">Python Environments in VS Code</a></p>
+<dl>
+<dt>// Example Settings.JSON that I use for my Django projects!</dt><dd><dl>
+<dt>{</dt><dd><p>// Python
+“[python]”: {</p>
+<blockquote>
+<div><p>“editor.formatOnType”: true</p>
+</div></blockquote>
+<p>},
+“window.zoomLevel”: 4,</p>
+<p>// Efficiency
+“files.autoSave”: “afterDelay”,
+“editor.mouseWheelZoom”: true,
+“python.terminal.activateEnvironment”: true,
+“workbench.settings.editor”: “json”,</p>
+<p>// Terminal
+“terminal.integrated.defaultProfile.windows”: “Command Prompt”,
+“terminal.integrated.profiles.windows”: {</p>
+<blockquote>
+<div><dl class="simple">
+<dt>“PowerShell”: {</dt><dd><p>“source”: “PowerShell”,
+“icon”: “terminal-powershell”</p>
+</dd>
+</dl>
+<p>},
+“Command Prompt”: {</p>
+<blockquote>
+<div><dl class="simple">
+<dt>“path”: [</dt><dd><p>“${env:windir}\Sysnative\cmd.exe”,
+“${env:windir}\System32\cmd.exe”</p>
+</dd>
+</dl>
+<p>],
+“args”: [],
+“icon”: “terminal-cmd”</p>
+</div></blockquote>
+<p>},
+“Git Bash”: {</p>
+<blockquote>
+<div><p>“source”: “Git Bash”</p>
+</div></blockquote>
+<p>},
+“Ubuntu (WSL)”: {</p>
+<blockquote>
+<div><p>“path”: “C:\WINDOWS\System32\wsl.exe”,
+“args”: [</p>
+<blockquote>
+<div><p>“-d”,
+“Ubuntu”</p>
+</div></blockquote>
+<p>]</p>
+</div></blockquote>
+<p>}</p>
+</div></blockquote>
+<p>},</p>
+<p>// Django</p>
+<p>// Experiments
+“python.experiments.optInto”: [</p>
+<blockquote>
+<div><p>“All”,</p>
+</div></blockquote>
+<p>],
+“python.experiments.enabled”: true,</p>
+<p>// Default settings
+“python.analysis.autoImportCompletions”: true,
+“python.analysis.fixAll”: [“source.unusedImports”],
+“editor.defaultFormatter”: “ms-python.black-formatter”,
+“files.exclude”: {</p>
+<blockquote>
+<div><p>“django-crud/”: true,
+“crudapp/”: true,
+“<strong>/__pycache__”: true,
+“</strong>/.cache”: true,
+“<strong>/.coverage”: true,
+“</strong>/.coverage.*”: true,
+“<strong>/.hypothesis”: true,
+“</strong>/.mypy_cache”: true,
+“<strong>/.nox”: true,
+“</strong>/.pytest_cache”: true,
+“<strong>/.ruff_cache”: true,
+“</strong>/.tox”: true</p>
+</div></blockquote>
+<p>}</p>
+</dd>
+</dl>
+<p>}</p>
+</dd>
+</dl>
 </section>
 
         </article>
@@ -370,5 +459,7 @@
     <script src="../../_static/doctools.js?v=9a2dae69"></script>
     <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="../../_static/scripts/furo.js?v=4e2eecee"></script>
+    <script src="../../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../../_static/copybutton.js?v=f281be69"></script>
     </body>
 </html>

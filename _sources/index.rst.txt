@@ -24,10 +24,10 @@ Supercharge your Developer Experience with VS Code, Dev Containers and Codespace
 - VS Code Guide
 - Checklist to customize your settings
 - ⚡Superchage
-   - AI and Copilot
-   - Portable Mode
-   - Zen Mode
-   - Screencast Mode
+      - AI and Copilot
+      - Portable Mode
+      - Zen Mode
+      - Screencast Mode
 
 (10 mins) Group explore
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -65,7 +65,8 @@ Choose from:
 (10 mins) Codespaces 
 ^^^^^^^^^^^^^^^^^^^^^
 (30 mins) Group activity - deep dive together
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^     
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 .. toctree::
    :caption: Introduction

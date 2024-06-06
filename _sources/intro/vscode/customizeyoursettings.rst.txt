@@ -1,5 +1,5 @@
 ✅ 5. Customize Your VS Code settings
-===============================
+======================================
 
 .. |check| raw:: html
 
@@ -27,6 +27,8 @@ Using the VS Code Python Guide, check out the Editor and Environment Settings in
   
   |uncheck| Fonts
 
+|uncheck| Settings: `Settings in VS Code <https://code.visualstudio.com/docs/getstarted/settings>`__
+
 |uncheck| Terminal: `VS Code Terminal <https://code.visualstudio.com/docs/terminal/basics>`__
 
 |uncheck| Snippets: `Django Snippets Extension <https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django>`__
@@ -36,3 +38,75 @@ Using the VS Code Python Guide, check out the Editor and Environment Settings in
 |uncheck| Formatters: `Formatting Python in VS Code <https://code.visualstudio.com/docs/python/formatting>`__
 
 |uncheck| Environments: `Python Environments in VS Code <https://code.visualstudio.com/docs/python/environments>`__
+
+.. code:: JSON
+// Example Settings.JSON that I use for my Django projects!
+    {
+        // Python
+        "[python]": {
+            "editor.formatOnType": true
+        },
+        "window.zoomLevel": 4,
+
+        // Efficiency
+        "files.autoSave": "afterDelay",
+        "editor.mouseWheelZoom": true,
+        "python.terminal.activateEnvironment": true,
+        "workbench.settings.editor": "json",
+
+        // Terminal
+        "terminal.integrated.defaultProfile.windows": "Command Prompt",
+        "terminal.integrated.profiles.windows": {
+            "PowerShell": {
+                "source": "PowerShell",
+                "icon": "terminal-powershell"
+            },
+            "Command Prompt": {
+                "path": [
+                    "${env:windir}\\Sysnative\\cmd.exe",
+                    "${env:windir}\\System32\\cmd.exe"
+                ],
+                "args": [],
+                "icon": "terminal-cmd"
+            },
+            "Git Bash": {
+                "source": "Git Bash"
+            },
+            "Ubuntu (WSL)": {
+                "path": "C:\\WINDOWS\\System32\\wsl.exe",
+                "args": [
+                    "-d",
+                    "Ubuntu"
+                ]
+            }
+        },
+
+        // Django
+
+        // Experiments
+        "python.experiments.optInto": [
+            "All",
+        ],
+        "python.experiments.enabled": true,
+
+        // Default settings 
+        "python.analysis.autoImportCompletions": true,
+        "python.analysis.fixAll": ["source.unusedImports"],  
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "files.exclude": {
+            "django-crud/": true,
+            "crudapp/": true,
+            "**/__pycache__": true,
+            "**/.cache": true,
+            "**/.coverage": true,
+            "**/.coverage.*": true,
+            "**/.hypothesis": true,
+            "**/.mypy_cache": true,
+            "**/.nox": true,
+            "**/.pytest_cache": true,
+            "**/.ruff_cache": true,
+            "**/.tox": true
+        }
+
+    }
+

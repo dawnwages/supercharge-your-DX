@@ -2,7 +2,7 @@
 ===================================
 
 Code completion, AI and Copilot
-------------------------------
+--------------------------------
 - `📺 Effortless Python with GitHub Copilot <https://youtu.be/DSHfHT5qnGc>`__
 - `📺 Prompting with Copilot <https://youtu.be/ImWfIDTxn7E>`__
 - `📺 Using Copilot with Jupyter Notebooks <https://youtu.be/QS_bh-3qKdw>`__

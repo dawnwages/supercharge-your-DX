@@ -9,6 +9,7 @@
         <title>FAQ - Python + VS Code, Dev Containers, Codespaces Workshop</title>
       <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=a746c00c" />
     <link rel="stylesheet" type="text/css" href="_static/styles/furo.css?v=387cc868" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="_static/styles/furo-extensions.css?v=36a5483c" />
     
     
@@ -307,6 +308,22 @@
 <h2>What settings trump what settings?<a class="headerlink" href="#what-settings-trump-what-settings" title="Link to this heading">¶</a></h2>
 <p>Profile &gt; User &gt; Workspace</p>
 <p>Hypothetically, if you have specifications in your User settings that contradict your Workspace settings, VS Code will try to reconcile the differences and where it cannot it will opt for the more specific user experience. That means user settings will take precedence over workspace settings. If you then import a profile, the settings in that profile will take precedence over your workspace where enabled. There is a screen as you are importing the profile to look at the contents of the profile and choose or even tweek the settings you’d like to use before implementing.</p>
+</section>
+<section id="vs-code-versions">
+<h2>VS Code Versions<a class="headerlink" href="#vs-code-versions" title="Link to this heading">¶</a></h2>
+<p>By default VS Code Auto updates to new version.</p>
+</section>
+<section id="can-i-disable-analytics-on-me-i-think-i-would-like-to-use-a-vs-code-fork">
+<h2>Can I disable analytics on me? I think I would like to use a VS Code fork?<a class="headerlink" href="#can-i-disable-analytics-on-me-i-think-i-would-like-to-use-a-vs-code-fork" title="Link to this heading">¶</a></h2>
+<p>You can disable VS Code telemetry which removes the need for VSCodium while allowing you to use VS Code’s full set of features.</p>
+</section>
+<section id="indentation">
+<h2>Indentation<a class="headerlink" href="#indentation" title="Link to this heading">¶</a></h2>
+<p>VS Code lets you control text indentation and whether you’d like to use spaces or tab stops. By default, VS Code inserts spaces &amp; uses 4 spaces per tab key. VS Code will analyze your open file and determine indentation used in the document. The auto detection overrides indentation settings.</p>
+</section>
+<section id="workspace-trust">
+<h2>Workspace Trust<a class="headerlink" href="#workspace-trust" title="Link to this heading">¶</a></h2>
+<p>[Workspace Trust](<a class="reference external" href="https://code.visualstudio.com/docs/editor/workspace-trust">https://code.visualstudio.com/docs/editor/workspace-trust</a>) lets you decide whether code in your folder can be executed by VS Code and extensions without your explicit approval. This allows for safe code browsing working in “Restricted Mode”</p>
 <embed>
 <iframe src="https://app.sli.do/event/hMq9cCrrUGsi49cQ1K9C7x" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
 </embed></section>
@@ -369,6 +386,10 @@
             <ul>
 <li><a class="reference internal" href="#">FAQ</a><ul>
 <li><a class="reference internal" href="#what-settings-trump-what-settings">What settings trump what settings?</a></li>
+<li><a class="reference internal" href="#vs-code-versions">VS Code Versions</a></li>
+<li><a class="reference internal" href="#can-i-disable-analytics-on-me-i-think-i-would-like-to-use-a-vs-code-fork">Can I disable analytics on me? I think I would like to use a VS Code fork?</a></li>
+<li><a class="reference internal" href="#indentation">Indentation</a></li>
+<li><a class="reference internal" href="#workspace-trust">Workspace Trust</a></li>
 </ul>
 </li>
 </ul>
@@ -384,5 +405,7 @@
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/scripts/furo.js?v=4e2eecee"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
     </body>
 </html>

@@ -12,7 +12,7 @@ Quick links
 -----------
 - ▶️ `Codespaces Quick Start <https://docs.github.com/en/codespaces/getting-started/quickstart>`__
 
-.. admonition::
+.. admonition:: Try anywhere!
     :class: important
 
     You can do this demo with *any* Django repo on GitHub. Try it out!

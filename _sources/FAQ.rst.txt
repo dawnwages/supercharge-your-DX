@@ -7,6 +7,22 @@ Profile > User > Workspace
 
 Hypothetically, if you have specifications in your User settings that contradict your Workspace settings, VS Code will try to reconcile the differences and where it cannot it will opt for the more specific user experience. That means user settings will take precedence over workspace settings. If you then import a profile, the settings in that profile will take precedence over your workspace where enabled. There is a screen as you are importing the profile to look at the contents of the profile and choose or even tweek the settings you’d like to use before implementing.
 
+VS Code Versions
+----------------
+By default VS Code Auto updates to new version.
+
+Can I disable analytics on me? I think I would like to use a VS Code fork?
+---------
+You can disable VS Code telemetry which removes the need for VSCodium while allowing you to use VS Code's full set of features.
+
+Indentation
+-----------
+VS Code lets you control text indentation and whether you'd like to use spaces or tab stops. By default, VS Code inserts spaces & uses 4 spaces per tab key. VS Code will analyze your open file and determine indentation used in the document. The auto detection overrides indentation settings.
+
+Workspace Trust
+---------------
+[Workspace Trust](https://code.visualstudio.com/docs/editor/workspace-trust) lets you decide whether code in your folder can be executed by VS Code and extensions without your explicit approval. This allows for safe code browsing working in "Restricted Mode"  
+
 .. raw:: html
 
     <embed>
