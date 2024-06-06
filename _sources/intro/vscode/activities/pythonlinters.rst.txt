@@ -1,6 +1,17 @@
 📺 [Activity] Linters
 ======================
 
-- 🆕[Ruff Linter Extension](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)
-- 🆕[Linting Python in VS Code](https://code.visualstudio.com/docs/python/linting)
-- [Black Formatter Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)
+Linting highlights semantic and stylistic problems in your Python source code and thus you're able to help identify programming errors. In VS Code for Python, this is done through installing your extension/linter of choice and now your linter and its opinions come through VS code and it's user interactions instead of just through the commanline. Syntax error detection is enabled by default in the Python extention's language server. You can use multiple linters at the same time. Microsoft publishes extensions for `Pylint <https://marketplace.visualstudio.com/items?itemName=ms-python.pylint>`__, `flake8 <https://marketplace.visualstudio.com/items?itemName=ms-python.flake8>`__ and `mypy <https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker>`__. The extensions offered by the community are `Ruff <https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff>`__ and `mypy <https://marketplace.visualstudio.com/items?itemName=matangover.mypy>`__. 
+
+.. raw:: html
+
+    <embed>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dF1wWo2aJCo?si=1IEFu-KbNSlr0iB7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </embed>
+
+- 🆕 `Ruff Linter Extension <https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff>`__
+- 🆕 `Linting Python in VS Code <https://code.visualstudio.com/docs/python/linting>`__
+- `Black Formatter Extension <https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter>`__
+
+.. admonition:: Learn more about the Language Server Protocol
+   In order to access the API in vs code for lanaguage specific editor features like autocomplete, error-checking and diagnostics, jump-to-definition, etc; VS Code has create the the Language Server Protocol. Check out `this guide <https://code.visualstudio.com/api/language-extensions/language-server-extension-guide>`__ that will explain how to build a Language Server extension in VS Code.  

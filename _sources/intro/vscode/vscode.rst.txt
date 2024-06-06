@@ -1,7 +1,7 @@
 📃 1. VS Code
 ==============
 
-    Free and built on open source. Integrated Git, debugging and extesnsions. You have the option between VS Code Stable and Insiders which are installed side-by-side, which means you can switch between the two independently. 
+    Free and built on open source. Integrated Git, debugging and extensions. You have the option between VS Code Stable and Insiders which are installed side-by-side, which means you can switch between the two independently. 
 
 Quick links
 -----------
@@ -16,7 +16,7 @@ Quick links
 +===========================================+================================================================================================================+==================================================================================================================================+
 |description                                |Stable VS Code release monthly.                                                                                 | The most recent code pushes for early adopters interested in troubleshooting VS Code, frequent builds with features and bug fixes|
 +-------------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-|Python Release Notes                       |`September 2023 <https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2024-release/>`__       |`latest <https://code.visualstudio.com/updates/>`__                                                                               |
+|Python Release Notes                       |`May 2024 <https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2024-release/>`__             |`latest <https://code.visualstudio.com/updates/>`__                                                                               |
 +-------------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
 |Download                                   |`Install <https://code.visualstudio.com/insiders/>`__                                                           |`Install <https://code.visualstudio.com/insiders/>`__                                                                             |
 +-------------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
@@ -33,11 +33,14 @@ Quick links
    🔥 Learn more about the `Experimental WebAssembly Exention in VS Code <https://code.visualstudio.com/blogs/2023/06/05/vscode-wasm-wasi>`__
 
 
-📺 1.1 Release Videos
-======================
+📺 1.1 Release Videos & the Python Pulse Live Stream
+=====================================================
+
+Dawn and the Python team host a monthly live stream on the `Python VS Code YouTube channel <https://aka.ms/python-pulse-live>`__ to discuss the latest release and updates.
+**Every 2nd Friday of the month at 11am PT.**
 
 .. raw:: html
 
     <embed>
-        <iframe width="728" height="409" src="https://www.youtube.com/embed/videoseries?si=eeFF8pfBEYI4MvmP&amp;list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=eeFF8pfBEYI4MvmP&amp;list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </embed>

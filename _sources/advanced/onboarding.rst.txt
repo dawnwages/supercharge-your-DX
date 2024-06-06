@@ -1,6 +1,9 @@
 📃 Onboarding a new Team Member
 ================================
 
-- [Markdown Preview Mermaid Support Extension](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
-- [VS Code Profiles](https://code.visualstudio.com/docs/editor/profiles)
-- [Using PostgreSQL inside VS Code Dev Containers](https://www.youtube.com/live/JTHTWp9DIZQ?si=jLVh0qLfMV3jhbmH)
+So you have a new teammate or you are the new teammate, along with the existing documentation for how to submit requests and interact with your teams, you'd like to get on the same page as your fellow developers. You also have a bit of "oh wait! how did you do that!" as you're pairing with your teammates in VS Code. By taking advantage of some intentional features in VS Code, you can save, share and suggest settings with a few clicks. Call out features are `creating an extension pack`, installing customising your run and debug extensions
+
+- `Why create an extension pack? <https://code.visualstudio.com/blogs/2017/03/07/extension-pack-roundup#_why-would-i-want-to-create-an-extension-pack>`__
+- `Markdown Preview Mermaid Support Extension <https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid`__
+- `VS Code Profiles <https://code.visualstudio.com/docs/editor/profiles>`__
+- `Using PostgreSQL inside VS Code Dev Containers <https://www.youtube.com/live/JTHTWp9DIZQ?si=jLVh0qLfMV3jhbmH>`__

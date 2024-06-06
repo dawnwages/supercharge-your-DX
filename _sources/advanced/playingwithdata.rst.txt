@@ -1,5 +1,23 @@
 📺 [Activity] Playing with data with VS Code extensions
 ========================================================
+Python is popular with data analysis, data science and machine learning. Tools that facilitate the cleaning and pipelines of this code is invaluable when pushing forward. You'll save and money with Data Wrangler, Jupyter Notebooks and SQL Tools extensions among others.
+
+Data Wrangler on the Python Pulse
+----------------------------------
+.. raw:: html
+
+    <embed>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5EeBSNr0x3Y?si=n4D76F_xvAL0Eead" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </embed>
+
+Jupyter Notebooks on the Python Pulse
+--------------------------------------
+.. raw:: html
+
+    <embed>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/WByQs82d29Y?si=P3WP1RVq868GZp6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </embed>
+
 - [Data Wrangler - Extension (Video)](https://youtu.be/gc0Hm1NpYPo)
 - [Jupyter Notebooks Extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)
 - 🆕[Data Wrangler Extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)

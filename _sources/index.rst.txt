@@ -19,8 +19,8 @@ Supercharge your Developer Experience with VS Code, Dev Containers and Codespace
 - What are Dev Containers?
 - How to use GitHub Codespaces?
 
-(15 min) VS Code Walkthrough
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(15 min) VS Code Guide
+^^^^^^^^^^^^^^^^^^^^^^^
 - VS Code Guide
 - Checklist to customize your settings
 - ⚡Superchage

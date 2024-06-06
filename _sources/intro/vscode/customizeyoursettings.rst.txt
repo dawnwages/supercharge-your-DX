@@ -40,8 +40,10 @@ Using the VS Code Python Guide, check out the Editor and Environment Settings in
 |uncheck| Environments: `Python Environments in VS Code <https://code.visualstudio.com/docs/python/environments>`__
 
 .. code:: JSON
-// Example Settings.JSON that I use for my Django projects!
+
     {
+
+        // Example Settings.json that I use for my Django projects!
         // Python
         "[python]": {
             "editor.formatOnType": true

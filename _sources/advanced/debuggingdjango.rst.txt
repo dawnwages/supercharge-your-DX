@@ -2,3 +2,33 @@
 =============================
 
 - Your debugger settings for your workspace go in your launch.json in your `.vscode` settings directory.
+
+New features have been added to the debugger experience. Check out the latest release video to learn more.
+
+.. raw:: html
+
+    <embed>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Uycqr4HG54E?si=VInfyut-Y_RZGlKF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </embed>
+
+.. code:: JSON
+
+    {
+        // Use IntelliSense to learn about possible attributes.
+        // Hover to view descriptions of existing attributes.
+        // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Python Debugger: Django",
+                "type": "debugpy",
+                "request": "launch",
+                "args": [
+                    "runserver"
+                ],
+                "django": true,
+                "autoStartBrowser": true,
+                "program": "${workspaceFolder}\\crudapp\\manage.py"
+            }
+        ]
+    }
