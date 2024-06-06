@@ -22,4 +22,4 @@ help:
 # Clean documentation build output to remove everything under _build and recreate git worktree
 clean:
 	@$(SPHINXBUILD) -M clean "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O);
-	cd _build; git worktree add -f html gh-pages
+	cd build; git worktree add -f html gh-pages
